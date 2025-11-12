@@ -1,0 +1,14 @@
+{
+  "name": "Mercia-ticket-bot",
+  "version": "1.0.0",
+  "description": "Mercia Roleplay destek ve şikayet sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.18.2",
+    "dotenv": "^16.4.5"
+  }
+}
